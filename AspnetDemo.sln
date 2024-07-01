@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspnetDemo", "AspnetDemo\AspnetDemo.csproj", "{CBB9B308-0342-4C8B-830B-0AD31F9509D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspnetDemo.Test", "AspnetDemo.Test\AspnetDemo.Test.csproj", "{3F69571B-AE69-47E0-9E04-488B2664BCF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBB9B308-0342-4C8B-830B-0AD31F9509D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB9B308-0342-4C8B-830B-0AD31F9509D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB9B308-0342-4C8B-830B-0AD31F9509D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB9B308-0342-4C8B-830B-0AD31F9509D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F69571B-AE69-47E0-9E04-488B2664BCF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F69571B-AE69-47E0-9E04-488B2664BCF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F69571B-AE69-47E0-9E04-488B2664BCF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F69571B-AE69-47E0-9E04-488B2664BCF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {071C0DA8-890F-4128-B351-6ACDFB7512A4}
+	EndGlobalSection
+EndGlobal
